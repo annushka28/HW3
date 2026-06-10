@@ -18,7 +18,7 @@ case "$1" in
     docker run --rm -v "$(pwd)/data:/data" hw3-reporter
     ;;
   structure)
-    find . 
+    find . -not -path '*/.*'
     ;;
   clear_data)
     rm -f data/*.csv data/*.html
