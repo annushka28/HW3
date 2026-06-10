@@ -23,3 +23,6 @@ chmod +x run.sh
 ```
 https://<имя-codespace>-8080.app.github.dev/report.html
 ```
+## Источники
+
+- Docker bind mounts (монтирование папки хоста): https://docs.docker.com/storage/bind-mounts/
