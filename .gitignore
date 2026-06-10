@@ -6,4 +6,4 @@ local_data/
 __pycache__/
 .pytest_cache/
 node_modules/
-.idea/
+.idea/HW3.ipynb
